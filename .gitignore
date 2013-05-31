@@ -1,4 +1,5 @@
 *.pyc
+.minitage
 .download
 .installed.cfg
 bin
